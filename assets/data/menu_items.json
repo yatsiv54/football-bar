@@ -1,0 +1,168 @@
+{
+  "categories": [
+    {
+      "id": "drinks",
+      "title": "Drinks",
+      "items": [
+        {
+          "id": "draft_beer",
+          "name": "Draft Beer 0.5L",
+          "description": "Crisp, cold lager on tap.",
+          "price": 4.9,
+          "imagePath": "assets/images/menu/beer.png"
+        },
+        {
+          "id": "classic_mojito",
+          "name": "Classic Mojito",
+          "description": "Lime, mint, soda, light rum.",
+          "price": 5.5,
+          "imagePath": "assets/images/menu/mojito.png"
+        },
+        {
+          "id": "energy_drink",
+          "name": "Energy Drink",
+          "description": "Sweet, refreshing boost.",
+          "price": 3.8,
+          "imagePath": "assets/images/menu/water.png"
+        },
+        {
+          "id": "cola",
+          "name": "Cola / Zero Cola",
+          "description": "Chilled soft drink, 0.5L.",
+          "price": 2.5,
+          "imagePath": "assets/images/menu/cola.png"
+        },
+        {
+          "id": "house_lemonade",
+          "name": "House Lemonade",
+          "description": "Fresh lemon, mint, sugar syrup.",
+          "price": 3.2,
+          "imagePath": "assets/images/menu/lemonade.png"
+        }
+      ]
+    },
+    {
+      "id": "snacks",
+      "title": "Snacks",
+      "items": [
+        {
+          "id": "chicken_wings",
+          "name": "Chicken Wings",
+          "description": "Crispy wings with spicy glaze.",
+          "price": 7.9,
+          "imagePath": "assets/images/menu/chicken.png"
+        },
+        {
+          "id": "nachos_cheese",
+          "name": "Nachos & Cheese Dip",
+          "description": "Corn chips with hot cheese sauce.",
+          "price": 5.5,
+          "imagePath": "assets/images/menu/chips.png"
+        },
+        {
+          "id": "garlic_breadsticks",
+          "name": "Garlic Breadsticks",
+          "description": "Toasted bread with garlic butter.",
+          "price": 3.9,
+          "imagePath": "assets/images/menu/buns.png"
+        },
+        {
+          "id": "onion_rings",
+          "name": "Onion Rings",
+          "description": "Golden fried crunchy rings.",
+          "price": 4.2,
+          "imagePath": "assets/images/menu/onion.png"
+        },
+        {
+          "id": "french_fries",
+          "name": "French Fries",
+          "description": "Classic salted crispy fries.",
+          "price": 3.8,
+          "imagePath": "assets/images/menu/fri.png"
+        }
+      ]
+    },
+    {
+      "id": "mains",
+      "title": "Mains",
+      "items": [
+        {
+          "id": "classic_beef_burger",
+          "name": "Classic Beef Burger",
+          "description": "Beef patty, cheddar, veggies, sauce.",
+          "price": 8.9,
+          "imagePath": "assets/images/menu/bigburger.png"
+        },
+        {
+          "id": "bbq_chicken_burger",
+          "name": "BBQ Chicken Burger",
+          "description": "Grilled chicken, smoky BBQ sauce.",
+          "price": 8.9,
+          "imagePath": "assets/images/menu/burger.png"
+        },
+        {
+          "id": "fish_and_chips",
+          "name": "Fish & Chips",
+          "description": "Crispy cod fillet with fries.",
+          "price": 10.5,
+          "imagePath": "assets/images/menu/fishchips.png"
+        },
+        {
+          "id": "pepperoni_pizza",
+          "name": "Pepperoni Pizza",
+          "description": "Thin crust, mozzarella, pepperoni.",
+          "price": 11.9,
+          "imagePath": "assets/images/menu/pizza.png"
+        },
+        {
+          "id": "grilled_sausage",
+          "name": "Grilled Sausages",
+          "description": "Two sausages, mustard, fries.",
+          "price": 8.5,
+          "imagePath": "assets/images/menu/sausage.png"
+        }
+      ]
+    },
+    {
+      "id": "desserts",
+      "title": "Desserts",
+      "items": [
+        {
+          "id": "chocolate_lava_cake",
+          "name": "Chocolate Lava Cake",
+          "description": "Warm cake with melting chocolate.",
+          "price": 5.9,
+          "imagePath": "assets/images/menu/volcano.png"
+        },
+        {
+          "id": "ice_cream_trio",
+          "name": "Ice Cream Trio",
+          "description": "Vanilla, chocolate, strawberry.",
+          "price": 4.5,
+          "imagePath": "assets/images/menu/icecream.png"
+        },
+        {
+          "id": "cheesecake_slice",
+          "name": "Cheesecake Slice",
+          "description": "Classic creamy cheesecake.",
+          "price": 4.9,
+          "imagePath": "assets/images/menu/cheesecake.png"
+        },
+        {
+          "id": "brownie_and_ice_cream",
+          "name": "Brownie & Ice Cream",
+          "description": "Rich brownie, vanilla scoop.",
+          "price": 5.5,
+          "imagePath": "assets/images/menu/vanilla.png"
+        },
+        {
+          "id": "fruit_bowl",
+          "name": "Fruit Bowl",
+          "description": "Fresh fruits, light and refreshing.",
+          "price": 4.2,
+          "imagePath": "assets/images/menu/fruits.png"
+        }
+      ]
+    }
+  ]
+}

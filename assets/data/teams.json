@@ -1,0 +1,218 @@
+{
+  "footballLeagues": ["Premier League", "La Liga"],
+  "hockeyLeagues": ["NHL", "AHL"],
+  "football": [
+    {
+      "id": "chelsea",
+      "name": "Chelsea",
+      "logoPath": "assets/images/teams/football/chelsea.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "arsenal",
+      "name": "Arsenal",
+      "logoPath": "assets/images/teams/football/arsenal.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "liverpool",
+      "name": "Liverpool",
+      "logoPath": "assets/images/teams/football/liverpool.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "man_city",
+      "name": "Manchester C",
+      "logoPath": "assets/images/teams/football/man_city.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "man_united",
+      "name": "Manchester U",
+      "logoPath": "assets/images/teams/football/man_united.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "bayern",
+      "name": "Bayern",
+      "logoPath": "assets/images/teams/football/bayern.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "psg",
+      "name": "PSG",
+      "logoPath": "assets/images/teams/football/psg.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "juventus",
+      "name": "Juventus",
+      "logoPath": "assets/images/teams/football/juventus.png",
+      "league": "Premier League"
+    },
+    {
+      "id": "barcelona",
+      "name": "Barcelona",
+      "logoPath": "assets/images/teams/football/barcelona.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "real_madrid",
+      "name": "Real",
+      "logoPath": "assets/images/teams/football/real_madri.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "atletico",
+      "name": "Atletico",
+      "logoPath": "assets/images/teams/football/atletico.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "betis",
+      "name": "Betis",
+      "logoPath": "assets/images/teams/football/betis.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "deportivo",
+      "name": "Deportivo",
+      "logoPath": "assets/images/teams/football/deportivo.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "espanyol",
+      "name": "Espanyol",
+      "logoPath": "assets/images/teams/football/espanyol.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "getafe",
+      "name": "Getafe",
+      "logoPath": "assets/images/teams/football/getafe.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "selvia",
+      "name": "Selvia",
+      "logoPath": "assets/images/teams/football/selvia.png",
+      "league": "La Liga"
+    },
+    {
+      "id": "valencia",
+      "name": "Valencia",
+      "logoPath": "assets/images/teams/football/valencia.png",
+      "league": "La Liga"
+    }
+  ],
+  "hockey": [
+    {
+      "id": "bruins",
+      "name": "Boston",
+      "logoPath": "assets/images/teams/hockey/bruins.png",
+      "league": "NHL"
+    },
+    {
+      "id": "rangers",
+      "name": "Rangers",
+      "logoPath": "assets/images/teams/hockey/rangers.png",
+      "league": "NHL"
+    },
+    {
+      "id": "maple_leafs",
+      "name": "Toronto",
+      "logoPath": "assets/images/teams/hockey/maple_leafs.png",
+      "league": "NHL"
+    },
+    {
+      "id": "red_wings",
+      "name": "Detroit",
+      "logoPath": "assets/images/teams/hockey/red_wings.png",
+      "league": "NHL"
+    },
+    {
+      "id": "avalanche",
+      "name": "Avalanche",
+      "logoPath": "assets/images/teams/hockey/avalanche.png",
+      "league": "NHL"
+    },
+    {
+      "id": "lightning",
+      "name": "Lightning",
+      "logoPath": "assets/images/teams/hockey/lightning.png",
+      "league": "NHL"
+    },
+    {
+      "id": "penguins",
+      "name": "Penguins",
+      "logoPath": "assets/images/teams/hockey/penguins.png",
+      "league": "NHL"
+    },
+    {
+      "id": "blackhawks",
+      "name": "Blackhawks",
+      "logoPath": "assets/images/teams/hockey/blackhawks.png",
+      "league": "NHL"
+    },
+    {
+      "id": "canadiens",
+      "name": "Canadiens",
+      "logoPath": "assets/images/teams/hockey/canadiens.png",
+      "league": "NHL"
+    },
+    {
+      "id": "kings",
+      "name": "Kings",
+      "logoPath": "assets/images/teams/hockey/kings.png",
+      "league": "NHL"
+    },
+    {
+      "id": "admirals",
+      "name": "Admirals",
+      "logoPath": "assets/images/teams/hockey/admirals.png",
+      "league": "AHL"
+    },
+    {
+      "id": "tstars",
+      "name": "Texas Stars",
+      "logoPath": "assets/images/teams/hockey/tstars.png",
+      "league": "AHL"
+    },
+    {
+      "id": "pbruins",
+      "name": "Providence Bruins",
+      "logoPath": "assets/images/teams/hockey/pbruins.png",
+      "league": "AHL"
+    },
+    {
+      "id": "rochester",
+      "name": "Rochester",
+      "logoPath": "assets/images/teams/hockey/rochester.png",
+      "league": "AHL"
+    },
+    {
+      "id": "clevland",
+      "name": "Clevland",
+      "logoPath": "assets/images/teams/hockey/clevland.png",
+      "league": "AHL"
+    },
+    {
+      "id": "wolves",
+      "name": "Chicago Wolves",
+      "logoPath": "assets/images/teams/hockey/wolves.png",
+      "league": "AHL"
+    },
+    {
+      "id": "bears",
+      "name": "Hershey Bears",
+      "logoPath": "assets/images/teams/hockey/bears.png",
+      "league": "AHL"
+    },
+    {
+      "id": "griffins",
+      "name": "Griffins",
+      "logoPath": "assets/images/teams/hockey/griffins.png",
+      "league": "AHL"
+    }
+  ]
+}
